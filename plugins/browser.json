@@ -1,0 +1,73 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-battery-status": {
+            "PACKAGE_NAME": "net.sultan.datacollect"
+        },
+        "cordova-plugin-camera": {
+            "PACKAGE_NAME": "net.sultan.datacollect"
+        },
+        "cordova-plugin-media-capture": {
+            "PACKAGE_NAME": "net.sultan.datacollect"
+        },
+        "cordova-plugin-console": {
+            "PACKAGE_NAME": "net.sultan.datacollect"
+        },
+        "cordova-plugin-contacts": {
+            "PACKAGE_NAME": "net.sultan.datacollect"
+        },
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "net.sultan.datacollect"
+        },
+        "cordova-plugin-device-motion": {
+            "PACKAGE_NAME": "net.sultan.datacollect"
+        },
+        "cordova-plugin-device-orientation": {
+            "PACKAGE_NAME": "net.sultan.datacollect"
+        },
+        "cordova-plugin-dialogs": {
+            "PACKAGE_NAME": "net.sultan.datacollect"
+        },
+        "cordova-plugin-file-transfer": {
+            "PACKAGE_NAME": "net.sultan.datacollect"
+        },
+        "cordova-plugin-geolocation": {
+            "PACKAGE_NAME": "net.sultan.datacollect"
+        },
+        "cordova-plugin-globalization": {
+            "PACKAGE_NAME": "net.sultan.datacollect"
+        },
+        "cordova-plugin-inappbrowser": {
+            "PACKAGE_NAME": "net.sultan.datacollect"
+        },
+        "cordova-plugin-media": {
+            "PACKAGE_NAME": "net.sultan.datacollect"
+        },
+        "cordova-plugin-network-information": {
+            "PACKAGE_NAME": "net.sultan.datacollect"
+        },
+        "cordova-plugin-splashscreen": {
+            "PACKAGE_NAME": "net.sultan.datacollect"
+        },
+        "cordova-plugin-statusbar": {
+            "PACKAGE_NAME": "net.sultan.datacollect"
+        },
+        "cordova-plugin-vibration": {
+            "PACKAGE_NAME": "net.sultan.datacollect"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "net.sultan.datacollect"
+        }
+    },
+    "dependent_plugins": {
+        "cordova-plugin-file": {
+            "PACKAGE_NAME": "net.sultan.datacollect"
+        }
+    }
+}
